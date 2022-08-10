@@ -1120,9 +1120,9 @@ header .logo a {
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
-	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
+	height: 20px;
+	background: url("../images/Grail.png") no-repeat center;
+	background-size: 92px 20px;
 }
 
 /**
