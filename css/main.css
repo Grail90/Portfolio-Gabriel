@@ -1800,7 +1800,7 @@ header .logo a {
 	padding-bottom: 12rem;
 }
 #portfolio .folio-item {
-	padding: 0;
+	padding: 7px;
 	position: relative;
 	overflow: hidden;
 }
@@ -1988,7 +1988,7 @@ header .logo a {
 
 /* overlay animate in */
 .mfp-fade.mfp-bg.mfp-ready {
-	opacity: .9;
+	opacity: 0.9;
 }
 
 /* overlay animate out */
