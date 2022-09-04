@@ -1068,6 +1068,10 @@
 }
 .fa-play-circle:before {
   content: "\f144";
+}  
+//github----------------------------------------
+.fa-github:before {
+  content: "\f09b";
 }
 .fa-ticket:before {
   content: "\f145";
@@ -1083,6 +1087,10 @@
 }
 .fa-level-down:before {
   content: "\f149";
+}
+//linkedIn-----------------------------
+.fa-linkedIn:before {
+  content: "\f08c";
 }
 .fa-check-square:before {
   content: "\f14a";
